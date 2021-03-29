@@ -6,3 +6,5 @@
 @import "popup/popup.css";
 @import "interface/interface.css";
 @import "userChrome-tabline.css";
+@import "userChrome-hover.css";
+
